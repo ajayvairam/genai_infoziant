@@ -65,3 +65,4 @@ export const useNotification = () => {
   if (!ctx) throw new Error('useNotification must be used within NotificationProvider');
   return ctx;
 };
+

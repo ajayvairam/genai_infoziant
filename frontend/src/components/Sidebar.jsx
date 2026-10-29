@@ -104,3 +104,4 @@ export const Sidebar = ({ activeTab, onSelectTab }) => {
     </aside>
   );
 };
+

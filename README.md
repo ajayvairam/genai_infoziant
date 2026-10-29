@@ -283,3 +283,4 @@ If you wish to connect to an external Supabase PostgreSQL database:
 
 ## 📄 License
 MIT License. Built for computer science students, educators, and developers.
+

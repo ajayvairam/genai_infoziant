@@ -81,3 +81,4 @@ class DebuggerService:
         )
 
 debugger_service = DebuggerService()
+

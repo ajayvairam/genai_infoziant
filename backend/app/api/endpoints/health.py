@@ -13,3 +13,4 @@ async def health_check():
         "gemini_configured": bool(settings.GEMINI_API_KEY),
         "supabase_configured": bool(settings.SUPABASE_URL and settings.SUPABASE_KEY)
     }
+

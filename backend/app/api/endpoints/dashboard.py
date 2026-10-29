@@ -12,3 +12,4 @@ async def get_dashboard_stats(user: UserContext = Depends(get_current_user)):
     """
     stats = await supabase_service.get_dashboard_stats(user.user_id)
     return stats
+

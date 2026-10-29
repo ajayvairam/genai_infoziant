@@ -281,3 +281,4 @@ export const DashboardPage = ({ onNavigateToWorkspace, onSelectHistoryItem }) =>
     </div>
   );
 };
+

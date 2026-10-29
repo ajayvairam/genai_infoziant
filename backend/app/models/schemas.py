@@ -72,3 +72,4 @@ class DashboardStats(BaseModel):
     resolved_count: int
     top_languages: List[LanguageStat]
     recent_analyses: List[HistoryItem]
+

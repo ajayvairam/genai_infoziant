@@ -62,3 +62,4 @@ async def get_current_user(authorization: Optional[str] = Header(None)) -> UserC
     except Exception:
         # Fallback to guest user ID based on token hash
         return UserContext(user_id=f"user-{abs(hash(token)) % 100000}", email="user@debugmate.local", is_guest=False)
+

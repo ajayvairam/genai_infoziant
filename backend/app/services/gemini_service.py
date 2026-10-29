@@ -309,3 +309,4 @@ INSTRUCTIONS:
         }
 
 gemini_service = GeminiService()
+

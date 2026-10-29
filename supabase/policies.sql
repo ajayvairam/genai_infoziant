@@ -63,3 +63,4 @@ CREATE POLICY "Users can delete own debug chat messages"
     ON public.debug_chat_messages
     FOR DELETE
     USING (auth.uid() = user_id);
+

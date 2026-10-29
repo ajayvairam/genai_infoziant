@@ -155,3 +155,4 @@ export const Navbar = ({ onNewAnalysis }) => {
     </header>
   );
 };
+

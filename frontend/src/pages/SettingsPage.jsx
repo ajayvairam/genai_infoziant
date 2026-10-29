@@ -193,3 +193,4 @@ SUPABASE_JWT_SECRET=your_supabase_jwt_secret`}
     </div>
   );
 };
+

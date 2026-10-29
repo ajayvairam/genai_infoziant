@@ -117,3 +117,4 @@ for i in range(len(scores) + 1):
     print(f"Student {i + 1}: {scores[i]}")`
   }
 ];
+

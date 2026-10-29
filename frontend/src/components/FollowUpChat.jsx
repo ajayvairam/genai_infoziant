@@ -223,3 +223,4 @@ export const FollowUpChat = ({ analysis, language }) => {
     </div>
   );
 };
+

@@ -108,3 +108,4 @@ async def delete_history_item(
             detail="Analysis not found or could not be deleted."
         )
     return {"message": "Analysis deleted successfully", "id": analysis_id}
+
